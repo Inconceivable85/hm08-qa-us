@@ -27,7 +27,7 @@ module.exports = {
     blanketAndHandkerchief: '.r-sw',
     blanketAndHandkerchiefActive: '.switch-input',
     iceCreamPlusOne: '.counter-plus',
-    iceCreamValueSelector: ".//div[@class='r-counter']/div/div[@class='counter-value' and text()='2']",
+    iceCreamValueSelector: '.counter-value',
     enterNumberAndOrder: '.smart-button',
     driverWillArrive: '.order-body',
     
